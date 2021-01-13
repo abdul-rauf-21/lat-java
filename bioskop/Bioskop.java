@@ -1,8 +1,6 @@
 import java.util.Scanner;
-import java.util.Arrays;
 import java.util.Map;
 import java.util.HashMap;
-import java.util.List;
 import org.fusesource.jansi.AnsiConsole;
 import static org.fusesource.jansi.Ansi.*;
 import static org.fusesource.jansi.Ansi.Color.*;
